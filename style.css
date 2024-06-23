@@ -1,0 +1,149 @@
+.yt{
+    
+    
+    alingh-item:center;
+    margin-left:30px;
+}
+.menu1{
+    display:flex;
+    font-size:11px;
+    width:  1fr;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+.menu2{
+    display:flex;
+    justify-content:space-between;
+      width: 1fr; 
+      font-size:20px; 
+      aling-text:center;
+      margin-left: 30px;
+      margin-right: 30px;
+}
+.y{
+    padding-left:0px ;
+}
+.items {
+    border-radius: 2px;
+    background-color: #D3D3D3 ;
+    padding-top:2px ;
+    padding-bottom:2px ;
+    padding-left:4px ;
+    padding-right: 4px;
+    width: 100px;
+    height: 40px;
+    font-size: 30px;
+    
+    
+}
+.items:hover{
+    border-radius: 2px;
+    background-color: black ;
+    padding-top:2px ;
+    padding-bottom:2px ;
+    padding-left:4px ;
+    padding-right: 4px;
+    color: white ;
+}
+.tool{
+    padding-left: 200px;
+    display:flex;
+    justify-content:space-between;
+    align-item: center;
+}
+.t{
+    padding-left:15px;
+    height:50px;
+    width:30px ;
+}
+ .video {
+   
+   
+ display:inline-block;
+   height:750px;
+   width:1fr ;
+   overflow-x: hidden;
+ scroll-margin: hidden;
+overflow-y: auto;
+   padding-left:10px;
+   -webkit-overflow-scrolling: none;
+   
+   
+   }
+   .vid
+{
+    
+     width: 1950px;
+ height: 500px;
+ overflow-x: auto;
+ overflow-y: auto;
+    background-color:black ;
+    margin-bottom: 10px;
+    margin-left:15px;
+    margin-top:10px;
+}
+.Amazon {
+  
+   background-color: black;
+   height: 100px;
+   width: 100px;
+   margin: 5px;
+   color: black;
+  display: inline-block;
+   align-content: center;
+   border-radius: 50px;
+   
+   
+   
+ }
+ 
+ .title {
+     display:flex;
+     margin-left:15px;
+
+     font-size: 40px;
+     
+ }
+ .tt{
+     margin-left:60px;
+     color:gray;
+     font-size:30px;
+ }
+ .nav{
+     display:flex;
+     justify-content:space-between;
+     margin-left:35px;
+     width: 1fr;
+     object-fif:cover;
+     height: 80px;
+     overflow-x: ;
+ }
+ .r{
+    padding-bottom: 0%;
+     height: 70px;
+     width:70px;
+ }
+ body{
+     
+     
+     height: 950px;
+    width: 1fr;
+    backdrop-filter:blur(20px);
+ padding-bottom: 0%;
+     
+    justify-content:;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+    
+    
+  
+ 
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(11.2px);
+-webkit-backdrop-filter: blur(11.2px);
+border: 1px solid rgba(255, 255, 255, 0.38);
+ }
